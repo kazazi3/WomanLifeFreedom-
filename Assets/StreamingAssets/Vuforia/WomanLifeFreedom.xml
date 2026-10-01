@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="womanlifefreedom-" size="1.000000 1.464789" />
+    <ImageTarget name="womanlifefreedom-mariansatrapi_page_1" size="8.000000 6.014347" />
+    <ImageTarget name="womanlifefreedom-mariansatrapi_page_2" size="7.000000 10.161119" />
+    <ImageTarget name="womanlifefreedom-mariansatrapi_page_3" size="7.000000 9.891304" />
+    <ImageTarget name="womanlifefreedom-mariansatrapi_page_4" size="7.000000 10.320225" />
+  </Tracking>
+</QCARConfig>
